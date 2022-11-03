@@ -34,7 +34,7 @@ In this lab you will use <a></a> tag to create internal and external links, and 
 
 ```
 
-- [ ] In the <body></body> section of your page, write code to implement the webpage shown here: [WebpageMockup.jpg](WebpageMockup.jpg) 
+- [ ] In the <body></body> section of your page, write code to implement the webpage shown here: 	[WebpageMockup.jpg](WebpageMockup.jpg) 
 
 	* Locate the section indicated with the id = nav.  In between the <div></div> tags create bookmark links to the following sections
 		- fav-sites
